@@ -1,0 +1,10 @@
+{
+    "name": "react-event-listener",
+    "description": "A React component that allow to bind events on the global scope",
+    "repos": "https://github.com/oliviertassinari/react-event-listener.git",
+    "main": "lib/index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "0.1.1"
+}
